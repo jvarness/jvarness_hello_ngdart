@@ -6,7 +6,7 @@
     margin: 0 0 2em 0;
     list-style-type: none;
     padding: 0;
-    width: 15em;
+    width: 18em;
   }
   .heroes li {
     cursor: pointer;
@@ -62,4 +62,12 @@
     color: #ccc;
     cursor: auto;
   }
+  button.delete {
+    float:right;
+    margin-top: 2px;
+    margin-right: .8em;
+    background-color: gray !important;
+    color:white;
+  }
+  
   
